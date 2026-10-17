@@ -1,0 +1,8 @@
+# Chapter: 7
+# Section: 7.7.9 Reproducible Scientific-Computing Workflow
+# Type: FRAGMENT
+# Status: NEEDS_REVIEW
+# Origin: Word paragraph(s) 2417–2417
+# Note: Independent execution NOT guaranteed. Original text preserved below.
+
+def growth_model(...):

@@ -1,0 +1,11 @@
+# Local environments and execution outputs
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+chapters/*/examples/results/
+
+# Private Windows validation evidence
+local_validation_logs/
